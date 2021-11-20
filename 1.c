@@ -20,3 +20,7 @@ int main();
     scanf("");
     return 0;
 }
+       
+       
+       
+       sayali
